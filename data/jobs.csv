@@ -1,0 +1,7 @@
+
+job_id,title,company,location,salary,skills
+1,IT Support Specialist,TechCorp,Sacramento,52000,Windows
+2,Python Developer,DataWorks,San Francisco,95000,Python
+3,Data Analyst,AnalyticsPro,Sacramento,75000,SQL
+4,Help Desk Technician,SupportNow,Folsom,45000,Networking
+5,Data Engineer,CloudTech,Remote,115000,Python
